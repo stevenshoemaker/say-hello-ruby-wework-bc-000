@@ -1,2 +1,2 @@
-def say_hello (phrase= "Hello Ruby Programmer!" , x)
-end
+def say_hello (name = "Hello Ruby Programmer!" , x)
+puts "Hello,#{name}"
